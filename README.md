@@ -29,9 +29,9 @@ Perfil profesional:
 
 | Proyecto | Descripción | Tecnologías | Repositorio |
 |---|---|---|---|
-| 🤖 WhatsApp Bot | Bot de soporte técnico para WhatsApp | JavaScript | [whats_bot](https://github.com/Ra77Data/personal-projects/whats_bot) |
-| 🌤️ Weather App | Aplicación web para consultar el clima | HTML | [weather_app](https://github.com/Ra77Data/personal-projects/weather_app) |
-| 🔋 Monitor de Batería Crostini | Monitor de batería para ChromeOS usando Crostini | Python | [monitor-bateria-crostini](https://github.com/Ra77Data/personal-projects/monitor-bateria-crostini) |
+| 🤖 WhatsApp Bot | Bot de soporte técnico para WhatsApp | JavaScript | [whats_bot](https://github.com/Ra77Data/personal-projects/tree/main/whats_bot) |
+| 🌤️ Weather App | Aplicación web para consultar el clima | HTML | [weather_app](https://github.com/Ra77Data/personal-projects/tree/main/weather_app) |
+| 🔋 Monitor de Batería Crostini | Monitor de batería para ChromeOS usando Crostini | Python | [monitor-bateria-crostini](https://github.com/Ra77Data//personal-projects/tree/main/monitor-bateria-crostini) |
 
 ---
 
